@@ -341,8 +341,9 @@ namespace Figlet {
   extern Banner small;    //!< instance `Banner` class using figlet font `small`
   extern Banner standard; //!< instance `Banner` class using figlet font `standard`
   extern Banner straight; //!< instance `Banner` class using figlet font `straight`
+  extern Banner bulbhead; //!< instance `Banner` class using figlet font `bulbhead`
 
-}
+};
 
 #endif
 
